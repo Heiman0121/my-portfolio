@@ -79,19 +79,19 @@ const Banner = () => {
                 className="text-gradient btn-link">
                 My Portfolio
               </a>
-            </motion.div>
-            <motion.div
-              variants={fadeIn("up", 0.5)}
-              initial="hidden"
-              whileInView={"show"}
-              viewports={{ once: false, amount: 0.5 }}
-              className="flex text-[20px] gap-x-6 max-w-max mx-auto lg:mx-0">
-              <a href="https://github.com/Heiman0121">
-                <FaGithub />
-              </a>
-              <a href="https://www.linkedin.com/in/heimanyeung/">
-                <FaLinkedin />
-              </a>
+              <div
+                variants={fadeIn("up", 0.5)}
+                initial="hidden"
+                whileInView={"show"}
+                viewports={{ once: false, amount: 0.5 }}
+                className="flex text-[20px] gap-x-6 max-w-max mx-auto lg:mx-0">
+                <a href="https://github.com/Heiman0121">
+                  <FaGithub />
+                </a>
+                <a href="https://www.linkedin.com/in/heimanyeung/">
+                  <FaLinkedin />
+                </a>
+              </div>
             </motion.div>
           </div>
           <motion.div
