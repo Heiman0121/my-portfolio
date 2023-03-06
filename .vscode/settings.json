@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": true,
+  "diffEditor.maxFileSize": 50,
+  "prettier.printWidth": 60,
+  "tailwindCSS.emmetCompletions": true,
+  "tailwindCSS.suggestions": true
+}
