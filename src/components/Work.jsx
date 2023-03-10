@@ -24,7 +24,8 @@ const Work = () => {
                 View all projects
               </h2>
               <p className="max-w-sm mb-28">
-                Here is my TypeScript MERN CRUD AWS Project
+                Here is my TypeScript React JS MERN CRUD AWS
+                Project
               </p>
             </div>
             <a href="https://mern-project-ujkp.onrender.com">
