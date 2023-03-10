@@ -27,26 +27,28 @@ const Work = () => {
                 Here is my TypeScript MERN CRUD AWS Project
               </p>
             </div>
-            <div className="group relative overflow-hidden border-2 rounded-xl border-white/50 lg:h-[300px]">
-              <div className="group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300"></div>
-              <a href="https://mern-project-ujkp.onrender.com">
+            <a href="https://mern-project-ujkp.onrender.com">
+              <div className="group relative overflow-hidden border-2 rounded-xl border-white/50 lg:h-[300px]">
+                <div className="group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300"></div>
+
                 <img
                   className="group-hover:scale-125 transition-all duration-500"
                   src={Img3}
                   alt="FrontPage"
                 />
-              </a>
-              <div className="absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50">
-                <span className="text-gradient">
-                  Mern Blog
-                </span>
+
+                <div className="absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50">
+                  <span className="text-gradient">
+                    Mern Blog
+                  </span>
+                </div>
+                <div className="absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50">
+                  <span className="text-3xl text-white">
+                    MERN + CRUD + AWS Blog
+                  </span>
+                </div>
               </div>
-              <div className="absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50">
-                <span className="text-3xl text-white">
-                  MERN + CRUD + AWS Blog
-                </span>
-              </div>
-            </div>
+            </a>
           </motion.div>
 
           <motion.div
