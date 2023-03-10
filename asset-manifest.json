@@ -1,12 +1,11 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.7e142241.css",
-    "main.js": "/my-portfolio/static/js/main.2f39d034.js",
+    "main.css": "/my-portfolio/static/css/main.891d54d8.css",
+    "main.js": "/my-portfolio/static/js/main.6c319e83.js",
     "static/media/project.png": "/my-portfolio/static/media/project.8bc71dc8fe89a8fddd33.png",
     "static/media/project-2.png": "/my-portfolio/static/media/project-2.2ce00e8f68be9868f40d.png",
     "static/media/mernProject.png": "/my-portfolio/static/media/mernProject.78be1990219504c7132d.png",
     "static/media/react.png": "/my-portfolio/static/media/react.2f2532db663fd5ec5f95.png",
-    "static/media/services.png": "/my-portfolio/static/media/services.8e66d4fbbd95de45b8db.png",
     "static/media/mysql.png": "/my-portfolio/static/media/mysql.167c88550478e6f0f85c.png",
     "static/media/py.png": "/my-portfolio/static/media/py.82efb64f8698a267f8bf.png",
     "static/media/profile.png": "/my-portfolio/static/media/profile.578b0679a8c6003278da.png",
@@ -14,6 +13,7 @@
     "static/media/css.png": "/my-portfolio/static/media/css.19c8605d6b2861f5fbe0.png",
     "static/media/mongoDB.png": "/my-portfolio/static/media/mongoDB.c9f0a5e798fe10267adb.png",
     "static/media/rust.png": "/my-portfolio/static/media/rust.7d393d306ff7114bf93f.png",
+    "static/media/services.png": "/my-portfolio/static/media/services.c2ae53fe7690a1c3f31d.png",
     "static/media/node.png": "/my-portfolio/static/media/node.e71346fe0fec16ec5f6e.png",
     "static/media/tailwind.png": "/my-portfolio/static/media/tailwind.8e81e4c5944b034a5865.png",
     "static/media/ts.png": "/my-portfolio/static/media/ts.16b157ea18cd87601675.png",
@@ -21,11 +21,11 @@
     "static/media/html.png": "/my-portfolio/static/media/html.c7c84f520aa5377c7387.png",
     "static/media/js.png": "/my-portfolio/static/media/js.266bd9fb2663dcc057b4.png",
     "index.html": "/my-portfolio/index.html",
-    "main.7e142241.css.map": "/my-portfolio/static/css/main.7e142241.css.map",
-    "main.2f39d034.js.map": "/my-portfolio/static/js/main.2f39d034.js.map"
+    "main.891d54d8.css.map": "/my-portfolio/static/css/main.891d54d8.css.map",
+    "main.6c319e83.js.map": "/my-portfolio/static/js/main.6c319e83.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e142241.css",
-    "static/js/main.2f39d034.js"
+    "static/css/main.891d54d8.css",
+    "static/js/main.6c319e83.js"
   ]
 }
