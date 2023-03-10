@@ -8,14 +8,14 @@ module.exports = {
     },
     container: {
       padding: {
-        DEFAULT: "15px",
+        DEFAULT: "10px",
       },
     },
     screens: {
       sm: "640px",
       md: "768px",
       lg: "960px",
-      xl: "1200px",
+      xl: "1300px",
     },
     extend: {
       colors: {

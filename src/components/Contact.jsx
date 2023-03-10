@@ -37,7 +37,7 @@ const Contact = () => {
   };
 
   return (
-    <section className="section" id="contact">
+    <section className="section mt-20" id="contact">
       <div className="container mx-auto">
         <div className="flex flex-col lg:flex-row">
           <motion.div
