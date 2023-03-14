@@ -20,10 +20,10 @@ const Work = () => {
             viewports={{ once: false, amount: 0.3 }}
             className="flex flex-1 flex-col gap-y-12 mb-10 lg:mb-0">
             <div>
-              <h2 className="h2 leading-tight text-gradient mb-28">
+              <h2 className="h2 leading-tight text-gradient mb-24">
                 View all projects
               </h2>
-              <p className="max-w-sm mb-28">
+              <p className="max-w-sm mb-24">
                 Here is my TypeScript React JS MERN CRUD AWS
                 Project
               </p>
