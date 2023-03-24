@@ -1,5 +1,5 @@
 import React from "react";
-import { FaGithub, FaLinkedin } from "react-icons/fa";
+import { FaGithub } from "react-icons/fa";
 
 import Img2 from "../assets/project-2.png";
 import Img3 from "../assets/mernProject.png";

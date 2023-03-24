@@ -1,19 +1,12 @@
 import React from "react";
-import { Link } from "react-scroll";
-import CountUp from "react-countup";
-import {
-  InView,
-  useInView,
-} from "react-intersection-observer";
+
 import { motion } from "framer-motion";
 import { fadeIn } from "../variants";
 import technologies from "./Tech";
 
 const About = () => {
-  const [ref, inView] = useInView({ threshold: 0.5 });
-
   return (
-    <section className="section mt-20" id="about" ref={ref}>
+    <section className="section mt-20" id="about">
       <div className="container mx-auto">
         <div className="flex flex-col gap-y-10 lg:flex-row lg:items-center lg:gap-x-20 lg:gap-y-0">
           <motion.div
