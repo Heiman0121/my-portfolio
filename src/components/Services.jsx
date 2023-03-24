@@ -36,12 +36,12 @@ const Services = () => {
             whileInView={"show"}
             viewports={{ once: false, amount: 0.3 }}
             className="flex-1 lg:bg-services lg:bg-bottom bg-no-repeat mix-blend-lighten mb-12 lg:mb-0">
-            <h2 className="h2 text-accent my-6">
+            <h2 className="h2 text-white my-6">
               what I Do
             </h2>
             <h3 className="h3 max-w-[455px] mb-16">
-              I am a Freelance Front End Developer with over
-              year experience.
+              I am also a Freelance Front End Developer with
+              over year experience.
             </h3>
             <Link to="contact">
               <button className="btn btn-sm">

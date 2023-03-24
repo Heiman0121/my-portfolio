@@ -54,14 +54,8 @@ const Banner = () => {
               whileInView={"show"}
               viewports={{ once: false, amount: 0.7 }}
               className="mb-8 max-w-lg mx-auto lg:mx-0">
-              Experienced Full Stack Developer with a
-              passion for innovation and mentoring early
-              career talents. Skilled in designing,
-              developing, and implementing solutions using
-              various technologies and programming
-              languages. Seeking a challenging role to
-              leverage my expertise and drive for building
-              innovative solutions.
+              Hi, I'm Heiman. A passionate Full Stack
+              Developer using model MERN stack.
             </motion.p>
             <motion.div
               variants={fadeIn("up", 0.6)}
@@ -74,11 +68,7 @@ const Banner = () => {
                   Contact Me
                 </button>
               </Link>
-              <a
-                href="#"
-                className="text-gradient btn-link">
-                My Portfolio
-              </a>
+
               <div
                 variants={fadeIn("up", 0.5)}
                 initial="hidden"

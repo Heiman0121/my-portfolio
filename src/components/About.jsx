@@ -52,60 +52,16 @@ const About = () => {
               of hands-on experience
             </h3>
             <p className="mb-6">
-              in designing, developing, and implementing
-              applications using various technologies and
-              programming languages, I am eager to take on a
-              challenging role that will enable me to
-              leverage my broad development experience and
-              technical expertise. I am also passionate
-              about mentoring and empowering early career
-              talents to become future leaders in the IT
-              industry. With a creative mindset and a strong
-              drive to challenge the status quo, I am always
-              looking for opportunities to build innovative
-              solutions.
+              Designing, developing and implementing
+              applicaitons and solutions using adiverser
+              rnage of technologies and programming
+              languages.Processing an uncesaingly creative
+              mindset, I am committed to challenging the
+              status quo and constructing innivative
+              solutions. I am also a team player who thrives
+              in collaborating with cross functional teams
+              to produce outstaning applications.
             </p>
-            <div className="flex gap-x-6 lg:gap-x-10 mb-12 ">
-              <div>
-                <div className="text-[40px] font-tertiary text-gradient mb-2">
-                  {inView ? (
-                    <CountUp
-                      start={0}
-                      end={1.5}
-                      duration={8}
-                      decimals={1}
-                    />
-                  ) : null}
-                  +
-                </div>
-                <div className="font-primary text-sm tracking-[2px]">
-                  Year of <br />
-                  Experience
-                </div>
-              </div>
-              <div>
-                <div className="text-[40px] font-tertiary text-gradient mb-2">
-                  {inView ? (
-                    <CountUp
-                      start={0}
-                      end={20}
-                      duration={5}
-                    />
-                  ) : null}{" "}
-                </div>
-                <div className="font-primary text-sm tracking-[2px]">
-                  Project <br />
-                  Completed
-                </div>
-              </div>
-              <div className="flex gap-x-8 items-center">
-                <Link to="contact">
-                  <button className="btn btn-lg">
-                    Contact me
-                  </button>
-                </Link>
-              </div>
-            </div>
           </motion.div>
         </div>
       </div>
