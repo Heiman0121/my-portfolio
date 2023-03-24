@@ -1,13 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.4ca41475.css",
-    "main.js": "/static/js/main.070192a1.js",
-    "static/media/project.png": "/static/media/project.8bc71dc8fe89a8fddd33.png",
+    "main.css": "/static/css/main.3d4c6b4f.css",
+    "main.js": "/static/js/main.0466c2f0.js",
     "static/media/project-2.png": "/static/media/project-2.2ce00e8f68be9868f40d.png",
     "static/media/mernProject.png": "/static/media/mernProject.78be1990219504c7132d.png",
     "static/media/react.png": "/static/media/react.2f2532db663fd5ec5f95.png",
     "static/media/mysql.png": "/static/media/mysql.167c88550478e6f0f85c.png",
-    "static/media/services.png": "/static/media/services.5371270e23f5f228d6b4.png",
     "static/media/py.png": "/static/media/py.82efb64f8698a267f8bf.png",
     "static/media/profile.png": "/static/media/profile.578b0679a8c6003278da.png",
     "static/media/firebase.png": "/static/media/firebase.bff5748e0ad72bf0c427.png",
@@ -21,11 +19,11 @@
     "static/media/html.png": "/static/media/html.c7c84f520aa5377c7387.png",
     "static/media/js.png": "/static/media/js.266bd9fb2663dcc057b4.png",
     "index.html": "/index.html",
-    "main.4ca41475.css.map": "/static/css/main.4ca41475.css.map",
-    "main.070192a1.js.map": "/static/js/main.070192a1.js.map"
+    "main.3d4c6b4f.css.map": "/static/css/main.3d4c6b4f.css.map",
+    "main.0466c2f0.js.map": "/static/js/main.0466c2f0.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ca41475.css",
-    "static/js/main.070192a1.js"
+    "static/css/main.3d4c6b4f.css",
+    "static/js/main.0466c2f0.js"
   ]
 }
